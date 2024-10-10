@@ -1,4 +1,4 @@
-# :currency_exchange: Challenge Conversor de Moedas ONE [MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# :currency_exchange: Challenge Conversor de Moedas ONE ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 <h3>Challenge Conversor de Moedas implementado com a <a href="https://www.exchangerate-api.com" target="_blank">API ExchangeRate</a>.  Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria com a Alura.<h3>
 
 ## :closed_book: Índice
