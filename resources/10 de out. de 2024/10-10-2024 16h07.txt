@@ -1,0 +1,6 @@
+16:04: Dólar Americano -> Real Brasileiro: R$  277.14
+16:04: Peso Chileno -> Peso Argentino: $  418.52
+16:04: Boliviano da Bolívia -> Dólar Americano: U$  1.44
+16:04: Iene Japonês -> Boliviano da Bolívia: Bs  23,345.00
+16:05: Boliviano da Bolívia -> Iene Japonês: ¥  21.42
+
