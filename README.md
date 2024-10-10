@@ -1,10 +1,6 @@
-# :currency_exchange: Challenge Conversor de Moedas ONE ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-<h3>Challenge Conversor de Moedas implementado com a <a href="https://www.exchangerate-api.com" target="_blank">API ExchangeRate</a>.  Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria com a Alura.<h3>
-
-## :closed_book: Índice
-- [Sobre o projeto](#wrench-sobre-o-projeto)
-- [Como funciona?](#money_with_wings-como-funciona)
-- [Tecnologias e ferramentas utilizadas](#computer-tecnologias-e-ferramentas-utilizadas)
+# :currency_exchange: Challenge Conversor de Moedas ONE ![[MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+Challenge Conversor de Moedas implementado com a [API ExchangeRate](https://www.exchangerate-api.com).
+Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria com a Alura.
 
 ## :wrench: Sobre o projeto
 - Uma aplicação back-end simples e robusta para conversão de moedas.
